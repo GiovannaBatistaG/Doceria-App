@@ -47,8 +47,10 @@ flutter run
 
 ## Equipe
 
-Giovanna Batista 1991571
-Alani Rodrigues
-Lucas Nunes
-Ana Karla 
-Marcelo Amorim 1997218
+integrantes:
+- Giovanna Batista 1991571 
+- Álani Rodrigues 1986006
+- Lucas Nunes 1996656
+- Ana Karla 1986881
+- Marcelo Amorim 1997218
+
