@@ -47,4 +47,8 @@ flutter run
 
 ## Equipe
 
-Projeto desenvolvido como atividade acadêmica da disciplina de Flutter.
+Giovanna Batista 1991571
+Alani Rodrigues
+Lucas Nunes
+Ana Karla 
+Marcelo Amorim 1997218
